@@ -19,3 +19,13 @@ git rm -r --cached .
 git add .
 git commit -m ".gitignore is now working"
 ```
+
+### create .env file
+
+```javaScript
+npm i dotenv
+//create new file named .env
+//create new file named .env.example
+//create .gitignore file using gitignore.io
+//push it to github
+```
