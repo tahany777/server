@@ -11,3 +11,11 @@ npm install body-parser cors express mongoose nodemon
 app.use(cors());
 app.use('/posts', postRoutes);
 ```
+
+## Hide .env file in GitHub
+
+```javaScript
+git rm -r --cached .
+git add .
+git commit -m ".gitignore is now working"
+```
