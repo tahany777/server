@@ -29,3 +29,9 @@ npm i dotenv
 //create .gitignore file using gitignore.io
 //push it to github
 ```
+
+### Login With Google (JWT)
+
+```bash
+npm install bcryptjs jsonwebtoken
+```
